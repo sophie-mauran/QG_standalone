@@ -1,0 +1,12 @@
+*.nc
+*.csv
+*.eps
+*.png
+*.pdf
+
+#Results
+analyse*/
+resultats*/
+truth/
+member*/
+evol*/
